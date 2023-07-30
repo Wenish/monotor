@@ -53,7 +53,8 @@ export default defineNuxtConfig({
     'nuxt-typed-router',
     '@nuxt/image-edge',
     '@sidebase/nuxt-auth',
-    '@nuxt/devtools'
+    '@nuxt/devtools',
+    '@nuxtjs/tailwindcss'
   ],
 
   postcss: {
